@@ -131,6 +131,14 @@
     z-index: 1100
 }
 
+#hideChatBtn {
+    transform: rotate(-90deg);
+}
+
+#showChatBtn {
+    transform: rotate(-90deg);
+}
+
 /*@keyframes color-change {
     0% {
         color: var(--green-color);
